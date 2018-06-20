@@ -12,6 +12,8 @@ XOXO prioritizes curating a diverse and representative lineup for our conference
 
 We pay all of our conference speakers and cover travel and accommodation for all speakers and performers.
 
+Where relevant, we provide explicit content warnings for our conference talks and festival performances.
+
 ## Lottery
 Registration for XOXO is offered through a survey and lottery process. A first-come, first-serve system typically favors those with time and money, which ends up benefiting predominantly white men with well-paying jobs and disposable income.
 
@@ -47,8 +49,6 @@ Children under 12 can attend all our events free of charge, so long as they’re
 XOXO offers gender pronoun pins at registration. We encourage all attendees to wear a pin stating their pronouns.
 
 Where possible, XOXO offers gender neutral restrooms. Where our venues have designated gendered restrooms, we display signage recommending that attendees should use whichever restroom they feel most comfortable with.
-
-Where relevant, we provide explicit content warnings for our conference talks and festival performances.
 
 ## Media Consent
 XOXO enforces a strict media consent policy for our attendees, designated by colored lanyards available at registration. A red lanyard designates strictly no photos or video, a yellow lanyard designates that photos and video are allowed with explicit consent, and a blue lanyard designates that photos and video are allowed without permission.
