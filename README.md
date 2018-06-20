@@ -50,8 +50,8 @@ XOXO offers gender pronoun pins at registration. We encourage all attendees to w
 
 Where possible, XOXO offers gender neutral restrooms. Where our venues have designated gendered restrooms, we display signage recommending that attendees should use whichever restroom they feel most comfortable with.
 
-## Media Consent
-XOXO enforces a strict media consent policy for our attendees, designated by colored lanyards available at registration. A red lanyard designates strictly no photos or video, a yellow lanyard designates that photos and video are allowed with explicit consent, and a blue lanyard designates that photos and video are allowed without permission.
+## Photo Consent
+XOXO enforces a photo media consent policy for our attendees, designated by colored lanyards available at registration. A red lanyard designates strictly no photos or video, a yellow lanyard designates that photos and video are allowed with explicit consent, and a blue lanyard designates that photos and video are allowed without permission.
 
 ## Hospitality
 XOXO offers a curated menu of non-alcoholic sodas, kombucha, and coffee and tea (including decaf) free of charge throughout the event. 
