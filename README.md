@@ -66,7 +66,7 @@ We offer designated quiet spaces throughout our venues.
 XOXO prioritizes working with women and minority-owned businesses and vendors who prioritize diversity and representation in their teams.
 
 ## Location
-XOXO gratefully acknowledges that we rest on the traditional lands of the Multnomah, Wasco, Cowlitz, Kathlamet, Clackamas, Bands of Chinook, Tualatin Kalapuya, Molalla, and many other Tribes who made their homes along the Columbia and Willamette rivers.
+XOXO acknowledges that we rest on the traditional lands of the Multnomah, Wasco, Cowlitz, Kathlamet, Clackamas, Bands of Chinook, Tualatin Kalapuya, Molalla, and many other Tribes who made their homes along the Columbia and Willamette rivers.
 
 ## License
 This policy is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
