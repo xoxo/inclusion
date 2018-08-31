@@ -1,6 +1,6 @@
 # Inclusion at XOXO
 
-**This policy is a “living” document, and subject to refinement and expansion in the future. Last updated June 19, 2018.**
+**This policy is a “living” document, and subject to refinement and expansion in the future. Last updated August 30, 2018.**
 
 We want XOXO to reflect the creative communities it showcases and celebrates. This policy serves as a list of our current inclusive production practices.
 
@@ -51,10 +51,10 @@ XOXO offers gender pronoun pins at registration. We encourage all attendees to w
 Where possible, XOXO offers gender neutral restrooms. Where our venues have designated gendered restrooms, we display signage recommending that attendees should use whichever restroom they feel most comfortable with.
 
 ## Photo Consent
-XOXO enforces a photo media consent policy for our attendees, designated by colored lanyards available at registration. A red lanyard designates strictly no photos or video, a yellow lanyard designates that photos and video are allowed with explicit consent, and a blue lanyard designates that photos and video are allowed without permission.
+XOXO enforces a photo media consent policy for our attendees, designated by colored lanyards available at registration. A red lanyard designates strictly no photos or video, a yellow lanyard designates that photos and video are allowed with explicit consent, and a black lanyard designates that photos and video are allowed without permission.
 
 ## Hospitality
-XOXO offers a curated menu of non-alcoholic sodas, kombucha, and coffee and tea (including decaf) free of charge throughout the event. 
+XOXO offers a curated menu of non-alcoholic sodas, kombucha, coffee, and tea (including decaf) free of charge throughout the event. 
 
 Our bars also serve beer, wine, and cocktails. We ask our attendees to drink responsibly. Alcohol consumption is not an excuse for violating our [Code of Conduct](https://2018.xoxofest.com/conduct).
 
