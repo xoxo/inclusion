@@ -1,6 +1,6 @@
 # Inclusion at XOXO
 
-**This policy is a “living” document, and subject to refinement and expansion in the future. Last updated August 30, 2018.**
+**This policy is a “living” document, and subject to refinement and expansion in the future. Last updated May 14, 2019.**
 
 We want XOXO to reflect the creative communities it showcases and celebrates. This policy serves as a list of our current inclusive production practices.
 
@@ -69,4 +69,4 @@ XOXO prioritizes working with women and minority-owned businesses and vendors wh
 XOXO acknowledges that we rest on the traditional lands of the Multnomah, Wasco, Cowlitz, Kathlamet, Clackamas, Bands of Chinook, Tualatin Kalapuya, Molalla, and many other Tribes who made their homes along the Columbia and Willamette rivers.
 
 ## License
-This policy is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license. We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+This policy is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) license and is [available on GitHub](https://github.com/xoxo/inclusion/). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
