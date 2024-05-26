@@ -75,5 +75,3 @@ XOXO takes place on the unceded, traditional Tribal lands of the Multnomah, Casc
 ## License
 
 This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/inclusion). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
-
-If you have questions or concerns about this policy, please contact us at [hi@xoxofest.com](mailto:hi@xoxofest.com).
