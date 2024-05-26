@@ -1,76 +1,79 @@
-# Inclusion at XOXO
+# Inclusion
 
-**This policy is a "living" document, and subject to refinement and expansion in the future. Last updated May 16, 2024.**
+**This is a living policy, subject to continual refinement and expansion. Last updated May 26, 2024**.
 
-We want XOXO to reflect the diverse creative communities it celebrates. This policy serves as a list of our current inclusive production practices.
+It’s important to us that XOXO reflects the diverse and vibrant creative communities it was created to celebrate. We currently make the following accommodations in our production to make the festival more welcoming and inclusive.
 
-
-## Curation
-
-XOXO prioritizes curating a diverse and representative lineup for our conference and festival events. We recognize our responsibility to amplify voices that have been traditionally marginalized both in our community and in society.
-
-We pay all of our conference speakers and cover travel and accommodation for all speakers and performers.
-
-Where relevant, we provide explicit content warnings for our conference talks and festival performances.
+If you have questions about this policy, or suggestions for ways it might be improved, please contact us at [hi@xoxofest.com](mailto:hi@xoxofest.com).
 
 ## Lottery
 
-Registration for XOXO is offered through a survey and lottery process. A first-come, first-serve system typically favors those with time and money, which ends up benefiting predominantly those with well-paying jobs and disposable income.
+Registration for XOXO is offered through a survey and lottery process. A first-come, first-serve system typically favors those with time and money, which ends up benefiting those with well paying jobs and disposable income.
 
 Our survey system allows us to counter some of these biases, prioritizing access to the festival for underrepresented people and independent artists.
 
+Read more about [How Registration Works](/guide/registration/).
+
 ## Subsidized Passes
 
-In past years, we were able to offer free passes to a small number of ​​economically disadvantaged attendees, subsidized by our patrons. This year, we’re unable to offer subsidized passes, but have cut the cost of all passes in half by reducing the scale of the event, hopefully making the festival accessible to more people.
+In past years, we were able to offer complimentary passes to a number of attendees who couldn’t otherwise afford to attend. This program was directly funded by generous contributions from companies and organizations in our community. In 2018, almost 20% of our attendees were able to attend XOXO completely free of charge.
 
-## Health & Safety
+Unfortunately, we are unable to continue our subsidized pass program through our final year due to a significant drop in sponsorship since we last produced XOXO.
 
-All XOXO attendees, vendors, volunteers, and staff are required to wear a high-quality mask at all times while inside Washington High (including Revolution Hall, Show Bar, and common areas inside the venue), as well as at any festival event on our schedule where masks are required. 
+We’ve decided instead to cut our pass price from $500 to $250 by scaling back our programming. With the resources available to us as a small, independent festival, we hope the shorter schedule and overall reduced ticket price offer a fair compromise.
 
-Learn more about [our COVID policy](/guide/covid).
+Read more about our [Pass Types](/guide/passes/).
 
-We offer sanitary products and toiletries (including menstrual products, sunscreen, makeup remover, cotton pads, dental floss, and deodorant) in all our restrooms. A first aid kit is also available at our registration desk.
-
-Smoking is not permitted in any of our venues.
-
-## Families & Childcare 
+## Families & Childcare
 
 XOXO provides free on-site childcare for the duration of the event. We work with a Portland-based childcare service who provide experienced, background-checked childcare providers.
 
-Children under 12 are welcome to attend XOXO free of charge, so long as they’re accompanied by a parent or guardian. Due to limited seating, a Theater Pass is required for all attendees inside Revolution Hall, even children. All of our venues are designated all-ages.
+All of our venues are designated all-ages. Children under 12 are welcome to attend XOXO free of charge, so long as they’re accompanied by a parent or guardian. Due to limited capacity, an XOXO pass is required for anyone taking a reserved seat either indoors or outdoors, even minors.
 
-For more information, see our <a href="/guide/childcare">Childcare & Families</a> section.
-
-## Identity
-
-XOXO offers gender pronoun pins at registration. We encourage all attendees to wear a pin stating their pronouns.
-
-Where possible, XOXO offers gender neutral restrooms. Where our venues have designated gendered restrooms, we display signage recommending that attendees should use whichever restroom they feel most comfortable with.
+Read more about our [Childcare & Families](/guide/childcare/) accommodations.
 
 ## Photo Consent
 
-XOXO enforces a photo media consent policy for our attendees, designated by colored lanyards available at registration. 
+XOXO enforces a media consent policy for our attendees, designated by colored lanyards available at Registration.
 
-A red lanyard designates strictly no photos or video, a yellow lanyard designates that photos and video are allowed with explicit consent, and a black lanyard designates that photos and video are allowed without permission.
+A red lanyard designates strictly no photos or video, a yellow lanyard designates that photos and video are allowed with explicit consent. A regular XOXO lanyard allows photos and video without permission.
+
+## Gender Identity
+
+XOXO provides gender pronoun pins at Registration. We encourage all attendees to wear a pin displaying their pronouns.
+
+## Restrooms
+
+Our venue offers two single-occupancy gender-neutral restrooms, in the back of Show Bar on the ground floor. There are also multi-stall gendered restrooms on each floor of Washington High. Attendees should use whichever restroom they feel most comfortable with.
+
+We offer sanitary products and toiletries (including menstrual products, sunscreen, makeup remover, cotton pads, dental floss, and deodorant) in all our restrooms.
+
+## Curation
+
+As an event centered around independent creativity, XOXO prioritizes curating a diverse and representative lineup of speakers and festival performers from a variety of creative, professional, economic, and personal backgrounds. We also recognize our responsibility to amplify voices that have been traditionally underrepresented or marginalized.
+
+We pay all of our speakers, and cover travel and accommodation for all main stage speakers and performers.
+
+Where relevant, we provide explicit content warnings in advance of our talks and festival performances.
 
 ## Hospitality
 
-XOXO offers a curated menu of non-alcoholic drinks, coffee, and tea (including decaf) available throughout the event.
+XOXO curates a lineup of local food trucks offering a variety of vegan, vegetarian, and gluten-free options from 9am–10pm each day. 
 
-Our on-site food trucks offer a variety of vegan, vegetarian, and gluten-free options.
+We offer coffee and tea (including decaf) during the day, and our evening bar includes a curated menu of non-alcoholic options.
 
-Our bars also serve beer, wine, and cocktails. We ask our attendees to drink responsibly. Alcohol consumption is not an excuse for violating our [Code of Conduct](/guide/conduct).
+Our bars also serve beer, wine, and cocktails. We ask our attendees to please drink responsibly. Alcohol consumption is not an excuse for violating our [Code of Conduct](/guide/conduct/).
 
 ## Vendors
 
-XOXO prioritizes working with women and minority-owned businesses and vendors who prioritize diversity and representation in their teams.
+XOXO prioritizes working with women and minority-owned businesses, and vendors who clearly prioritize diversity and representation in their teams.
 
-## Location
+## Land Acknowledgement
 
 XOXO takes place on the unceded, traditional Tribal lands of the Multnomah, Cascades, Clackamas, Oregon City Tumwater, Tualatin Kalapuya, and other Chinook bands who make their homes along the Columbia and Willamette rivers.
 
 ## License
 
-This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/inclusion). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
+This policy is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license, and is [available on GitHub](https://github.com/xoxo/covid). We encourage other events to adopt (and enforce) similar policies by using and remixing ours.
 
 If you have questions or concerns about this policy, please contact us at [hi@xoxofest.com](mailto:hi@xoxofest.com).
