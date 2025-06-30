@@ -1,6 +1,6 @@
 # Inclusion
 
-**This is a living policy, subject to continual refinement and expansion. Last updated May 26, 2024**.
+**Please note: Our Inclusion policy was last updated for XOXO 2024 and is no longer being developed.**
 
 It’s important to us that XOXO reflects the diverse and vibrant creative communities it was created to celebrate. We currently make the following accommodations in our production to make the festival more welcoming and inclusive.
 
